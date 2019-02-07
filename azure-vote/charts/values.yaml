@@ -1,0 +1,8 @@
+# Azure Vote UI controll
+title: "Best Office"
+value1: Dallas
+value2: NewYork
+
+# Service controlls
+serviceNameFront: azure-vote-front
+serviceType: LoadBalancer
